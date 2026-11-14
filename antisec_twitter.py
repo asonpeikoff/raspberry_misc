@@ -1,5 +1,5 @@
-# Jason D. Miller
-# github.com/hack-r
+# Ason Peikoff
+# github.com/asonpeikoff
 
 from twython import TwythonStreamer
 import RPi.GPIO as GPIO
